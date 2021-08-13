@@ -1,1 +1,1 @@
-This file is mandatory in all ALX School projects
+Software engineering is one of the coolest jobs in the world!
